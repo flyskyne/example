@@ -1,1 +1,1 @@
-write in rebase
+리베이스를 하자.

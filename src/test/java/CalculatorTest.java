@@ -18,6 +18,6 @@ public class CalculatorTest {
 	@Test
 	public void testAdd() throws Exception {
 		int result = Calculator.add(1, 2);
-		assertEquals(3, result);
+		assertEquals(3 + 12, result);
 	}
 }

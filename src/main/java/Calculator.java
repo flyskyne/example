@@ -11,6 +11,6 @@
  */
 public class Calculator {
 	public static final int add(int a, int b) {
-		return a + b;
+		return a + b + 12;
 	}
 }
